@@ -1,0 +1,24 @@
+{
+  "source_root": "E:\\46\\462\\New-papers\\Paper6-Scientific Reports\\DataSet",
+  "output_root": "E:\\46\\462\\New-papers\\Paper6-Scientific Reports\\GitHub_ASD_EyeTracking_TemporalTransformer",
+  "repository_name": "ASD-EyeTracking-Temporal-Transformer",
+  "version": "1.0.0",
+  "files_copied": 61,
+  "files_skipped": 133,
+  "requirements_detected": [
+    "ctgan",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "seaborn",
+    "torch"
+  ],
+  "include_results": false,
+  "include_data": false,
+  "validation_warnings": [
+    "GITHUB_URL is blank; add it after creating the GitHub repository.",
+    "ARTICLE_DOI is blank; add it after publication.",
+    "One or more ORCID fields are blank; add verified ORCIDs when available."
+  ]
+}

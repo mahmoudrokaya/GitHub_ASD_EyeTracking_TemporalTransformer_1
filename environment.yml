@@ -1,0 +1,14 @@
+name: asd-eyetracking-temporal-transformer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10
+  - pip
+  - ctgan
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - torch

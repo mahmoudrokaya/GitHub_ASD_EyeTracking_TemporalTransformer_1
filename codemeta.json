@@ -1,0 +1,77 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Improving Autism Diagnosis Across Ages Using Eye-Tracking and Temporal Transformer Models",
+  "description": "Reproducible code, experiment definitions, metadata, selected derived files, and supporting materials for autism diagnosis using eye-tracking time-series data and Temporal Transformer models.",
+  "version": "1.0.0",
+  "datePublished": "2026-07-26",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Mohammed A.",
+      "familyName": "AlZain",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Taif University, Saudi Arabia"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Mahmoud",
+      "familyName": "Rokaya",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Taif University, Saudi Arabia"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Dalia I.",
+      "familyName": "Hemdan",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Taif University, Saudi Arabia"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Ibrahim",
+      "familyName": "Gad",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Tanta University, Egypt"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "Malik",
+      "familyName": "Almaliki",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Taibah University, Saudi Arabia"
+      }
+    },
+    {
+      "@type": "Person",
+      "givenName": "El-Sayed",
+      "familyName": "Atlam",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Taibah University, Saudi Arabia"
+      }
+    }
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "ASD diagnosis",
+    "eye tracking",
+    "gaze analysis",
+    "temporal transformer",
+    "deep learning",
+    "time-series classification",
+    "explainable artificial intelligence"
+  ],
+  "license": "https://spdx.org/licenses/MIT.html",
+  "programmingLanguage": "Python",
+  "codeRepository": "ADD_GITHUB_REPOSITORY_URL"
+}

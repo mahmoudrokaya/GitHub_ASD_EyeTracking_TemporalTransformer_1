@@ -1,0 +1,45 @@
+{
+  "title": "Improving Autism Diagnosis Across Ages Using Eye-Tracking and Temporal Transformer Models",
+  "description": "Reproducible code, experiment definitions, metadata, selected derived files, and supporting materials for autism diagnosis using eye-tracking time-series data and Temporal Transformer models.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "AlZain, Mohammed A.",
+      "affiliation": "Taif University, Saudi Arabia"
+    },
+    {
+      "name": "Rokaya, Mahmoud",
+      "affiliation": "Taif University, Saudi Arabia"
+    },
+    {
+      "name": "Hemdan, Dalia I.",
+      "affiliation": "Taif University, Saudi Arabia"
+    },
+    {
+      "name": "Gad, Ibrahim",
+      "affiliation": "Tanta University, Egypt"
+    },
+    {
+      "name": "Almaliki, Malik",
+      "affiliation": "Taibah University, Saudi Arabia"
+    },
+    {
+      "name": "Atlam, El-Sayed",
+      "affiliation": "Taibah University, Saudi Arabia"
+    }
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "ASD diagnosis",
+    "eye tracking",
+    "gaze analysis",
+    "temporal transformer",
+    "deep learning",
+    "time-series classification",
+    "explainable artificial intelligence"
+  ],
+  "license": "mit",
+  "version": "1.0.0",
+  "publication_date": "2026-07-26",
+  "access_right": "open"
+}

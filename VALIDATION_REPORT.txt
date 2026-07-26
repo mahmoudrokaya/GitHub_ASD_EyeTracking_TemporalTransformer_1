@@ -1,0 +1,5 @@
+Repository validation completed.
+
+WARNING: GITHUB_URL is blank; add it after creating the GitHub repository.
+WARNING: ARTICLE_DOI is blank; add it after publication.
+WARNING: One or more ORCID fields are blank; add verified ORCIDs when available.

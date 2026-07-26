@@ -1,0 +1,134 @@
+﻿source,reason,size_bytes
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Codes\Experiment1\best_model.pt,Excluded by repository inclusion policy,2260514
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Codes\Experiment2\__pycache__\dataset1.cpython-310.pyc,Excluded by repository inclusion policy,2006
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Codes\Experiment2\__pycache__\model1.cpython-310.pyc,Excluded by repository inclusion policy,1176
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Codes\Experiment3\__pycache__\dataset1.cpython-310.pyc,Excluded by repository inclusion policy,2006
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Codes\Experiment3\__pycache__\model3.cpython-310.pyc,Excluded by repository inclusion policy,1256
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Codes\Experiment3\__pycache__\model3_variant.cpython-310.pyc,Excluded by repository inclusion policy,1264
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Codes\Experiment4\__pycache__\dataset1_variant.cpython-310.pyc,Excluded by repository inclusion policy,1934
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Codes\Experiment4\__pycache__\model4_ablation_with_regularization.cpython-310.pyc,Excluded by repository inclusion policy,1453
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\Balanced\test.csv,Excluded by repository inclusion policy,3840947
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\Balanced\train.csv,Excluded by repository inclusion policy,10224996
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\Balanced\unidentified.csv,Excluded by repository inclusion policy,762695250
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\Balanced\val.csv,Excluded by repository inclusion policy,2656176
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\Synthetic_Data.csv,Excluded by repository inclusion policy,5317273
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\test.csv,Excluded by repository inclusion policy,4358772
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\Test_Set__Robust_Split_.csv,Excluded by repository inclusion policy,2683667
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\train.csv,Excluded by repository inclusion policy,9923422
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\Train_Final_Set__Robust_Split_.csv,Excluded by repository inclusion policy,5740703
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\unidentified.csv,Excluded by repository inclusion policy,762695250
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\val.csv,Excluded by repository inclusion policy,2439925
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\EX1\Validation_Set__Robust_Split_.csv,Excluded by repository inclusion policy,1643851
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\best_model.pt,Excluded by repository inclusion policy,2260514
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\confusion_matrix.png,Excluded by repository inclusion policy,20787
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\Ex1-roc_curve.png,Excluded by repository inclusion policy,30569
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\f1-score_barplot.png,Excluded by repository inclusion policy,11426
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\loss_curve.png,Excluded by repository inclusion policy,26796
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\loss_curve1.png,Excluded by repository inclusion policy,26042
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\precision_barplot.png,Excluded by repository inclusion policy,11943
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\recall_barplot.png,Excluded by repository inclusion policy,11161
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\test.csv,Excluded by repository inclusion policy,1601263627
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\train.csv,Excluded by repository inclusion policy,7472219971
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment1\val.csv,Excluded by repository inclusion policy,1601993581
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\confusion_matrix_exp2.png,Excluded by repository inclusion policy,41616
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\f1-score_barplot_exp2.png,Excluded by repository inclusion policy,49856
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\Figure17_Loss_Curves.png,Excluded by repository inclusion policy,107847
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\precision_barplot_exp2.png,Excluded by repository inclusion policy,50232
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\recall_barplot_exp2.png,Excluded by repository inclusion policy,47924
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\Results\best_model.pt,Excluded by repository inclusion policy,2260514
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\Results\confusion_matrix.png,Excluded by repository inclusion policy,18303
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\Results\Ex2-roc_curve.png,Excluded by repository inclusion policy,28828
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\Results\f1-score_barplot.png,Excluded by repository inclusion policy,13048
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\Results\loss_curve.png,Excluded by repository inclusion policy,28767
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\Results\precision_barplot.png,Excluded by repository inclusion policy,13143
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\Results\recall_barplot.png,Excluded by repository inclusion policy,13006
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment2\roc_curve_exp2.png,Excluded by repository inclusion policy,96472
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Combined_ROC_Curves.png,Excluded by repository inclusion policy,115962
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Confusion Mastrix.png,Excluded by repository inclusion policy,64178
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\EX3-Roc-Curve.png,Excluded by repository inclusion policy,101596
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\F1-Score-Per-Class.png,Excluded by repository inclusion policy,60572
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Figure19,Excluded by repository inclusion policy,68484
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Figure19.jpg,Excluded by repository inclusion policy,68484
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Figure20.jpg,Excluded by repository inclusion policy,57956
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Figure21.jpg,Excluded by repository inclusion policy,49124
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Figure22.jpg,Excluded by repository inclusion policy,56610
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Figure24.jpg,Excluded by repository inclusion policy,123435
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Figure_23_Loss_Curves.png,Excluded by repository inclusion policy,126589
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Loss-Curve.png,Excluded by repository inclusion policy,110886
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Precision-Per-Class.png,Excluded by repository inclusion policy,61914
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Recall-Per-Class.png,Excluded by repository inclusion policy,56509
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Results\best_model.pt,Excluded by repository inclusion policy,9509666
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Results\confusion_matrix.png,Excluded by repository inclusion policy,18249
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Results\f1-score_barplot.png,Excluded by repository inclusion policy,13041
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Results\loss_curve.png,Excluded by repository inclusion policy,30003
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Results\precision_barplot.png,Excluded by repository inclusion policy,13117
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Results\recall_barplot.png,Excluded by repository inclusion policy,12394
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\Results\roc_curve.png,Excluded by repository inclusion policy,28853
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\VariantResults\best_model.pt,Excluded by repository inclusion policy,9509666
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\VariantResults\confusion_matrix.png,Excluded by repository inclusion policy,18577
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\VariantResults\f1-score_barplot.png,Excluded by repository inclusion policy,13048
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\VariantResults\loss_curve.png,Excluded by repository inclusion policy,25464
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\VariantResults\precision_barplot.png,Excluded by repository inclusion policy,13109
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\VariantResults\recall_barplot.png,Excluded by repository inclusion policy,12981
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment3\VariantResults\roc_curve.png,Excluded by repository inclusion policy,28536
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\Confusion Matrix – Entropy-Ablated.png,Excluded by repository inclusion policy,63603
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\Confusion Matrix – Minimal Loss.png,Excluded by repository inclusion policy,61779
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\Confusion Matrix – Reentry-Ablated.png,Excluded by repository inclusion policy,70415
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\ConfusionMatricies-output.png,Excluded by repository inclusion policy,123900
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\Loss Curve – Entropy-Ablated.png,Excluded by repository inclusion policy,105389
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\Loss Curve – Minimal Loss.png,Excluded by repository inclusion policy,100189
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\Loss Curve – Reentry-Ablated.png,Excluded by repository inclusion policy,104342
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\Loss-output.jpg,Excluded by repository inclusion policy,340607
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\ROC Curve – Entropy-Ablated.png,Excluded by repository inclusion policy,112963
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\ROC Curve – Reentry-Ablated.png,Excluded by repository inclusion policy,112580
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\ROC-Figure-output.png,Excluded by repository inclusion policy,167719
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment4\Results\Roc-Minimal-loss.png,Excluded by repository inclusion policy,103708
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment5\Figure15_ROC_CrossDataset_AUC85.png,Excluded by repository inclusion policy,90614
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment5\Outputs\ConfusionMatrix-EX5.png,Excluded by repository inclusion policy,63893
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment5\Outputs\F1-Score-Per-Class.png,Excluded by repository inclusion policy,34632
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment5\Outputs\Loss-Training-Validation.png,Excluded by repository inclusion policy,136449
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment5\Outputs\Precision-Per-Class.png,Excluded by repository inclusion policy,40994
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment5\Outputs\Recall-Per-Class.png,Excluded by repository inclusion policy,33620
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Experiment5\Outputs\ROC-Curve-EX5.png,Excluded by repository inclusion policy,82379
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\1.csv,Excluded by repository inclusion policy,8777983
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\10.csv,Excluded by repository inclusion policy,12002259
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\11.csv,Excluded by repository inclusion policy,38149489
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\12.csv,Excluded by repository inclusion policy,28248042
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\13.csv,Excluded by repository inclusion policy,5479465
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\14.csv,Excluded by repository inclusion policy,10015202
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\15.csv,Excluded by repository inclusion policy,10936673
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\16.csv,Excluded by repository inclusion policy,27436424
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\17.csv,Excluded by repository inclusion policy,119416461
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\18.csv,Excluded by repository inclusion policy,22345944
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\19.csv,Excluded by repository inclusion policy,26166436
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\2.csv,Excluded by repository inclusion policy,6222295
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\20.csv,Excluded by repository inclusion policy,35948324
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\21.csv,Excluded by repository inclusion policy,88900698
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\22.csv,Excluded by repository inclusion policy,20462759
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\23.csv,Excluded by repository inclusion policy,41454009
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\24.csv,Excluded by repository inclusion policy,14287822
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\25.csv,Excluded by repository inclusion policy,41643920
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\3.csv,Excluded by repository inclusion policy,44457751
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\4.csv,Excluded by repository inclusion policy,8534603
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\5.csv,Excluded by repository inclusion policy,6228702
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\6.csv,Excluded by repository inclusion policy,15155273
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\7.csv,Excluded by repository inclusion policy,17364405
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\8.csv,Excluded by repository inclusion policy,26531190
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\9.csv,Excluded by repository inclusion policy,23562766
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\__pycache__\dataset.cpython-310.pyc,Excluded by repository inclusion policy,2067
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\__pycache__\dataset1.cpython-310.pyc,Excluded by repository inclusion policy,2032
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\__pycache__\model.cpython-310.pyc,Excluded by repository inclusion policy,1206
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\__pycache__\model1.cpython-310.pyc,Excluded by repository inclusion policy,1202
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\best_model.pt,Excluded by repository inclusion policy,2260514
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\confusion_matrix.png,Excluded by repository inclusion policy,20787
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\f1-score_barplot.png,Excluded by repository inclusion policy,11426
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\loss_curve.png,Excluded by repository inclusion policy,26796
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\loss_curve1.png,Excluded by repository inclusion policy,26042
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\model.pt,Excluded by repository inclusion policy,3386886
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\precision_barplot.png,Excluded by repository inclusion policy,11943
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\recall_barplot.png,Excluded by repository inclusion policy,11161
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\roc_curve.png,Excluded by repository inclusion policy,30569
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\test.csv,Excluded by repository inclusion policy,1601263627
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\train.csv,Excluded by repository inclusion policy,7472219971
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\Data1\Eye-tracking Output\Balanced_70_15_15\val.csv,Excluded by repository inclusion policy,1601993581
+E:\46\462\New-papers\Paper6-Scientific Reports\DataSet\DataSet_1.zip,Excluded by repository inclusion policy,72845847
